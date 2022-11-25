@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/getbalance/static/css/main.073c9b0a.css",
+    "main.js": "/getbalance/static/js/main.4e9cd127.js",
+    "static/js/787.72fa5989.chunk.js": "/getbalance/static/js/787.72fa5989.chunk.js",
+    "index.html": "/getbalance/index.html",
+    "main.073c9b0a.css.map": "/getbalance/static/css/main.073c9b0a.css.map",
+    "main.4e9cd127.js.map": "/getbalance/static/js/main.4e9cd127.js.map",
+    "787.72fa5989.chunk.js.map": "/getbalance/static/js/787.72fa5989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e9cd127.js"
+  ]
+}
